@@ -1,0 +1,21 @@
+customer_id,customer_name,gender,age,customer_segment,signup_date,source_row
+C00205,Customer 205,Male,32,Small Business,2025-05-07,206
+C00205,Customer 205,Male,32,Small Business,2025-05-07,2004
+C00285,Customer 285,Female,23,Consumer,2025-02-13,286
+C00285,Customer 285,Female,23,Consumer,2025-02-13,2007
+C00695,Customer 695,Female,51,Corporate,2025-07-02,696
+C00695,Customer 695,Female,51,Corporate,2025-07-02,2005
+C01049,Customer 1049,Female,32,Consumer,2024-02-08,1050
+C01049,Customer 1049,Female,32,Consumer,2024-02-08,2003
+C01073,Customer 1073,Male,26,Consumer,2024-11-26,1074
+C01073,Customer 1073,Male,26,Consumer,2024-11-26,2002
+C01725,Customer 1725,Male,28,Consumer,2024-07-28,1726
+C01725,Customer 1725,Male,28,Consumer,2024-07-28,2011
+C01759,Customer 1759,Female,43,Consumer,2025-12-18,1760
+C01759,Customer 1759,Female,43,Consumer,2025-12-18,2006
+C01867,Customer 1867,Female,52,Consumer,2025-03-12,1868
+C01867,Customer 1867,Female,52,Consumer,2025-03-12,2008
+C01887,Customer 1887,Male,65,Consumer,2024-09-30,1888
+C01887,Customer 1887,Male,65,Consumer,2024-09-30,2010
+C01927,Customer 1927,Male,53,Consumer,2024-04-25,1928
+C01927,Customer 1927,Male,53,Consumer,2024-04-25,2009
